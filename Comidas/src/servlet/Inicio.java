@@ -22,7 +22,6 @@ import com.sun.xml.internal.bind.CycleRecoverable.Context;
 @WebServlet("/Inicio")
 public class Inicio extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-	private String aa = "";
     public Inicio() {
         super();
     }

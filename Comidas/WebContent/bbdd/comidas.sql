@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 15-07-2016 a las 10:30:52
+-- Tiempo de generación: 15-07-2016 a las 10:48:25
 -- Versión del servidor: 5.5.39
 -- Versión de PHP: 5.4.31
 
@@ -19,6 +19,32 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `comidas`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `categoria`
+--
+
+CREATE TABLE IF NOT EXISTS `categoria` (
+`id` int(11) NOT NULL,
+  `nombre` text NOT NULL
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=10 ;
+
+--
+-- Volcado de datos para la tabla `categoria`
+--
+
+INSERT INTO `categoria` (`id`, `nombre`) VALUES
+(1, 'Aceites y materias grasas'),
+(2, 'Productos lácteos'),
+(3, 'Productos lácteos'),
+(4, 'Setas y verduras'),
+(5, 'Frutas'),
+(6, 'Marisco'),
+(7, 'Carne'),
+(8, 'Pescado'),
+(9, 'Cereales, harinas y masas');
 
 -- --------------------------------------------------------
 
@@ -163,7 +189,7 @@ INSERT INTO `ingrediente` (`id`, `nombre`, `descripcion`, `calorias`, `categoria
 (121, 'Percebe', '-', 0, '0', '0'),
 (122, 'Perdiz', '-', 0, '0', '0'),
 (123, 'Pimiento', '-', 0, '0', '0'),
-(124, 'Pi', '-', 0, '0', '0'),
+(124, 'Piña', '-', 0, '0', '0'),
 (125, 'Platano', '-', 0, '0', '0'),
 (126, 'Pollo', '-', 0, '0', '0'),
 (127, 'Pomelo', '-', 0, '0', '0'),
@@ -277,6 +303,44 @@ CREATE TABLE IF NOT EXISTS `stock_usuario` (
   `cantidad` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+--
+-- Volcado de datos para la tabla `stock_usuario`
+--
+
+INSERT INTO `stock_usuario` (`id_usuario`, `id_ingrediente`, `cantidad`) VALUES
+(1, 3, 2),
+(1, 6, 4),
+(1, 8, 10),
+(1, 20, 1),
+(1, 46, 1),
+(1, 62, 1),
+(1, 84, 12),
+(1, 137, 200),
+(1, 138, 5);
+
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `subcategoria`
+--
+
+CREATE TABLE IF NOT EXISTS `subcategoria` (
+`id` int(11) NOT NULL,
+  `nombre` text NOT NULL,
+  `idCategoria` int(11) NOT NULL
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=15 ;
+
+--
+-- Volcado de datos para la tabla `subcategoria`
+--
+
+INSERT INTO `subcategoria` (`id`, `nombre`, `idCategoria`) VALUES
+(10, 'Aves de Caza', 7),
+(11, 'Aves de Corral', 7),
+(12, 'Mamíferos', 7),
+(13, 'Animal', 7),
+(14, 'Otros', 7);
+
 -- --------------------------------------------------------
 
 --
@@ -291,11 +355,24 @@ CREATE TABLE IF NOT EXISTS `usuario` (
   `email` text NOT NULL,
   `password` text NOT NULL,
   `fecha_registro` date NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2 ;
+
+--
+-- Volcado de datos para la tabla `usuario`
+--
+
+INSERT INTO `usuario` (`id`, `nombre`, `apellido_uno`, `apellido_dos`, `email`, `password`, `fecha_registro`) VALUES
+(1, 'Ivan', 'Corcoles', 'Martinez', 'cgehminecraft@gmail.com', 'asdasdasd', '1995-06-21');
 
 --
 -- Índices para tablas volcadas
 --
+
+--
+-- Indices de la tabla `categoria`
+--
+ALTER TABLE `categoria`
+ ADD PRIMARY KEY (`id`);
 
 --
 -- Indices de la tabla `ingrediente`
@@ -334,6 +411,12 @@ ALTER TABLE `stock_usuario`
  ADD PRIMARY KEY (`id_usuario`,`id_ingrediente`);
 
 --
+-- Indices de la tabla `subcategoria`
+--
+ALTER TABLE `subcategoria`
+ ADD PRIMARY KEY (`id`);
+
+--
 -- Indices de la tabla `usuario`
 --
 ALTER TABLE `usuario`
@@ -343,6 +426,11 @@ ALTER TABLE `usuario`
 -- AUTO_INCREMENT de las tablas volcadas
 --
 
+--
+-- AUTO_INCREMENT de la tabla `categoria`
+--
+ALTER TABLE `categoria`
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=10;
 --
 -- AUTO_INCREMENT de la tabla `ingrediente`
 --
@@ -359,10 +447,15 @@ MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=3;
 ALTER TABLE `receta_usada_usuario`
 MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 --
+-- AUTO_INCREMENT de la tabla `subcategoria`
+--
+ALTER TABLE `subcategoria`
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=15;
+--
 -- AUTO_INCREMENT de la tabla `usuario`
 --
 ALTER TABLE `usuario`
-MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=2;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

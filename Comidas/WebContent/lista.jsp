@@ -46,8 +46,16 @@ out.println("</head>");
 		    						out.println("<td>"+lista.get(i).getNombre()+"</td>");
 		    						out.println("<td>"+lista.get(i).getDescripcion()+"</td>");
 		    						out.println("<td>"+lista.get(i).getCalorias()+"</td>");
-		    						out.println("<td>"+lista.get(i).getCategoria()+"</td>");
-		    						out.println("<td>"+lista.get(i).getSubCategoria()+"</td>");
+		    						try{
+		    							out.println("<td>"+Ingrediente.dameValorDeCampo("categoria","nombre",lista.get(i).getCategoria())+"</td>");
+		    						} catch (Exception e){
+		    							out.println("<td>-</td>");
+		    						}
+		    						try{
+		    							out.println("<td>"+Ingrediente.dameValorDeCampo("subcategoria","nombre",lista.get(i).getSubCategoria())+"</td>");
+		    						} catch (Exception e){
+		    							out.println("<td>-</td>");
+		    						}
 		    					out.println("</tr>");
 							}
 		    				out.println("</tbody></table>");

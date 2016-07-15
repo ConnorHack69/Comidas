@@ -7,9 +7,9 @@ public class Conexion {
 
 	public Conexion() {
 		try {
-			Class.forName("com.mysql.jdbc.Driver").newInstance();
+			Class.forName("com.mysql.jdbc.Driver");
 			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/comidas", "root", "");
-		} catch (InstantiationException | IllegalAccessException| ClassNotFoundException | SQLException e) {
+		} catch (ClassNotFoundException | SQLException e) {
 			e.printStackTrace();
 		}
 	}

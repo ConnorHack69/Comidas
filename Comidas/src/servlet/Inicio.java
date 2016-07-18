@@ -109,9 +109,6 @@
 //}
 package servlet;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
 
@@ -137,21 +134,20 @@ public class Inicio extends HttpServlet {
 	}
 
 	protected void processRequest(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		String ARCHIVO_INGREDIENTES = getServletContext().getRealPath("/") + "ingredientes/datos.txt";
-		response.setContentType("text/html;charset=UTF-8");
-        PrintWriter out = response.getWriter();
-		String linea = "";
+		PrintWriter out = response.getWriter();
         try {
-			BufferedReader bf = new BufferedReader(new FileReader(ARCHIVO_INGREDIENTES));
-    		try {
-				while ((linea = bf.readLine())!=null) {
-					out.println("Insertando: " + linea);
-					//Ingrediente.aniadirNuevo(linea.split(";")[0], Integer.parseInt(linea.split(";")[1]));
-				}
-    		} catch (FileNotFoundException e) {
-    			System.out.println("Error cargando el archivo txt: " + e.toString());
-    		}
-			bf.close();
+            
+            out.println("<html>");
+            out.println("<head>");
+            out.println("<title>Servlet HelloServlet</title>");  
+            out.println("</head>");
+            out.println("<body>");
+            out.println("<h1>Servlet HelloServlet at " + 
+                request.getContextPath () + "</h1>");
+            out.println("<p>holi</p>");
+            out.println("</body>");
+            out.println("</html>");
+            
         } finally { 
             out.close();
         }

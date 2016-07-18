@@ -140,24 +140,18 @@ public class Inicio extends HttpServlet {
 		String ARCHIVO_INGREDIENTES = getServletContext().getRealPath("/") + "ingredientes/datos.txt";
 		response.setContentType("text/html;charset=UTF-8");
         PrintWriter out = response.getWriter();
+		String linea = "";
         try {
+			BufferedReader bf = new BufferedReader(new FileReader(ARCHIVO_INGREDIENTES));
     		try {
-    			BufferedReader bf = new BufferedReader(new FileReader(ARCHIVO_INGREDIENTES));
-				String linea = "";
-    			try {
-    				while ((linea = bf.readLine())!=null) {
-    					out.println("Insertando: " + linea);
-    					//Ingrediente.aniadirNuevo(linea.split(";")[0], Integer.parseInt(linea.split(";")[1]));
-    				}
-    			} catch (NumberFormatException e) {
-    				e.printStackTrace();
-    			} catch (IOException e) {
-    				e.printStackTrace();
-    			}
-    			bf.close();
+				while ((linea = bf.readLine())!=null) {
+					out.println("Insertando: " + linea);
+					//Ingrediente.aniadirNuevo(linea.split(";")[0], Integer.parseInt(linea.split(";")[1]));
+				}
     		} catch (FileNotFoundException e) {
     			System.out.println("Error cargando el archivo txt: " + e.toString());
     		}
+			bf.close();
         } finally { 
             out.close();
         }

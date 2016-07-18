@@ -1,34 +1,34 @@
-Aceitunas / Olivas;115;483
+Aceitunas y Olivas;115;483
 Aguacate;160;672
-Albaricoque / Chabacano;48;202
+Albaricoque y Chabacano;48;202
 Arandanos;57;239
 Arandanos;46;193
 Asai;70;294
-Caqui / Persimon;127;533
-Carambola / Fruta estrella;31;130
+Caqui y Persimon;127;533
+Carambola y Fruta estrella;31;130
 Cerezas;50;210
 Ciruela;46;193
 Ciruela verde;41;172
 Clementina;47;197
-Compota / Pure de manzana;68;286
+Compota y Pure de manzana;68;286
 Datiles;282;1184
 Frambuesa;52;218
-Fresas / Frutillas;32;134
+Fresas y Frutillas;32;134
 Granada;83;349
 Grosella;56;235
 Guayaba;68;286
-Higo chumbo / Tuna;37;155
+Higo chumbo y Tuna;37;155
 Higos;74;311
 Kiwi;61;256
 Lichi;66;277
 Lima;30;126
 Limon;29;122
-Macedonia / Ensalada de frutas;50;210
+Macedonia y Ensalada de frutas;50;210
 Mandarinas;53;223
 Mango;60;252
 Manzana;52;218
 Maracuya;97;407
-Melocoton / Durazno;39;164
+Melocoton y Durazno;39;164
 Melon;36;151
 Melon amarillo;55;231
 Melon cantalup;34;143
@@ -37,130 +37,130 @@ Membrillo;57;239
 Moras;43;181
 Moras;43;181
 Naranja;47;197
-Naranja roja / sanguina;50;210
+Naranja roja y sanguina;50;210
 Nectarina;44;185
-Papaya / Mamon;43;181
-Pasas / Pasas de uva;299;1256
+Papaya y Mamon;43;181
+Pasas y Pasas de uva;299;1256
 Pera;57;239
 Physalis;49;206
-Piña / Anana;50;210
-Platano / Banana;89;374
+Piña y Anana;50;210
+Platano y Banana;89;374
 Platano macho;122;512
-Pomelo / Toronja;42;176
+Pomelo y Toronja;42;176
 Rambutan;82;344
 Ruibarbo;21;88
 Sandia;30;126
 Tamarindo;239;1004
 Uvas;69;290
 Yaca;95;399
-Albaricoques / Damascos / Chabacanos en almíbar;86;361;5
-Albaricoques / Damascos en conserva;48;202;5
-Arándanos en almíbar;88;370;5
-Arándanos en conserva;88;370;5
-Arándanos rojos en almíbar;77;323;5
-Arándanos rojos en conserva;178;748;5
-Cerezas en almíbar;83;349;5
+Albaricoques y Damascos y Chabacanos en almibar;86;361;5
+Albaricoques y Damascos en conserva;48;202;5
+Arandanos en almibar;88;370;5
+Arandanos en conserva;88;370;5
+Arandanos rojos en almibar;77;323;5
+Arandanos rojos en conserva;178;748;5
+Cerezas en almibar;83;349;5
 Cerezas en conserva;54;227;5
-Ciruelas en almíbar;77;323;5
+Ciruelas en almibar;77;323;5
 Ciruelas en conserva;58;244;5
-Compota / Puré de manzana;62;260;5
-Cóctel de frutas en conserva;81;340;5
-Frambuesas en almíbar;83;349;5
+Compota y Pure de manzana;62;260;5
+Coctel de frutas en conserva;81;340;5
+Frambuesas en almibar;83;349;5
 Frambuesas en conserva;91;382;5
-Fresas / Frutillas en almíbar;63;265;5
-Fresas / Frutillas en conserva;92;386;5
+Fresas y Frutillas en almibar;63;265;5
+Fresas y Frutillas en conserva;92;386;5
 Fruta seca;243;1021;5
-Fruta variada en almíbar;73;307;5
+Fruta variada en almibar;73;307;5
 Fruta variada en conserva;71;298;5
-Grosella espinosa en almíbar;75;315;5
+Grosella espinosa en almibar;75;315;5
 Grosella espinosa en conserva;73;307;5
-Guinda en almíbar;102;428;5
+Guinda en almibar;102;428;5
 Guinda en conserva;81;340;5
-Higos en almíbar;88;370;5
+Higos en almibar;88;370;5
 Higos en conserva;107;449;5
-Macedonia / Ensalada de frutas en almíbar;73;307;5
-Macedonia / Ensalada de frutas en conserva;50;210;5
-Mandarinas en almíbar;84;353;5
+Macedonia y Ensalada de frutas en almibar;73;307;5
+Macedonia y Ensalada de frutas en conserva;50;210;5
+Mandarinas en almibar;84;353;5
 Mandarinas en conserva;71;298;5
-Mango en almíbar;96;403;5
+Mango en almibar;96;403;5
 Mango en conserva;65;273;5
-Melocotón / Duraznos en almíbar;76;319;5
-Melocotón / Duraznos en conserva;54;227;5
-Moras en almíbar;94;395;5
+Melocoton y Duraznos en almibar;76;319;5
+Melocoton y Duraznos en conserva;54;227;5
+Moras en almibar;94;395;5
 Moras en conserva;92;386;5
-Naranjas en almíbar;79;332;5
+Naranjas en almibar;79;332;5
 Naranjas en conserva;62;260;5
-Peras en almíbar;89;374;5
+Peras en almibar;89;374;5
 Peras en conserva;35;147;5
-Piña / Ananá en almíbar;77;323;5
-Piña / Ananá en conserva;60;252;5
-Piña / Ananá triturada en almíbar;79;332;5
-Piña / Ananá triturada en conserva;53;223;5
-Pomelo / Toronja en almíbar;64;269;5
-Pomelo / Toronja en conserva;37;155;5
-Rodajas de piña / ananá en almíbar;77;323;5
-Rodajas de piña / ananá en conserva;53;223;5
-Uvas en almíbar;98;412;5
+Piña y Anana en almibar;77;323;5
+Piña y Anana en conserva;60;252;5
+Piña y Anana triturada en almibar;79;332;5
+Piña y Anana triturada en conserva;53;223;5
+Pomelo y Toronja en almibar;64;269;5
+Pomelo y Toronja en conserva;37;155;5
+Rodajas de piña y anana en almibar;77;323;5
+Rodajas de piña y anana en conserva;53;223;5
+Uvas en almibar;98;412;5
 Uvas en conserva;76;319;5
 Acerola;32;134;5
-Aguacate / Palta;160;672;5
-Carambola / Fruta estrella;31;130;5
+Aguacate y Palta;160;672;5
+Carambola y Fruta estrella;31;130;5
 Chirimoya;75;315;5
-Cucumis / Melón;34;143;5
-Durián;147;617;5
+Cucumis y Melon;34;143;5
+Durian;147;617;5
 Fortunella;71;298;5
-Fruta del pan / Frutipán;103;433;5
+Fruta del pan y Frutipan;103;433;5
 Granada;83;349;5
 Guayaba;68;286;5
-Guayaba / Guayabo / Feijoa;55;231;5
-Guinda / Cereza al marrasquino;165;693;5
-Higo chumbo / Tuna;41;172;5
+Guayaba y Guayabo y Feijoa;55;231;5
+Guinda y Cereza al marrasquino;165;693;5
+Higo chumbo y Tuna;41;172;5
 Kiwi;61;256;5
 Lichi;66;277;5
 Mandarinas;53;223;5
 Mango;60;252;5
-Mangostán;73;307;5
-Maracuyá / Fruta de la pasión;97;407;5
-Melón cantalupo;34;143;5
-Melón de galia;23;97;5
-Melón verde;28;118;5
+Mangostan;73;307;5
+Maracuya y Fruta de la pasion;97;407;5
+Melon cantalupo;34;143;5
+Melon de galia;23;97;5
+Melon verde;28;118;5
 Noni;53;223;5
-Pera asiática;42;176;5
-Pitaya / Fruta del dragón;60;252;5
-Piña / Ananá;50;210;5
-Plátano / Banana;89;374;5
-Plátano macho;122;512;5
-Pomelo / Toronja;42;176;5
-Pomelo rosa / rosado / Toronja rosada;42;176;5
-Rambután;82;344;5
-Sandía;30;126;5
+Pera asiatica;42;176;5
+Pitaya y Fruta del dragon;60;252;5
+Piña y Anana;50;210;5
+Platano y Banana;89;374;5
+Platano macho;122;512;5
+Pomelo y Toronja;42;176;5
+Pomelo rosa y rosado y Toronja rosada;42;176;5
+Rambutan;82;344;5
+Sandia;30;126;5
 Tamarindo;239;1004;5
 Yaca;95;399;5
 Acelga;19;80;4
 Achicoria;72;302;4
 Ajo;149;626;4
 Alcachofa;47;197;4
-Altramuces / Lupines;120;504;4
+Altramuces y Lupines;120;504;4
 Apio;16;67;4
 Batata;86;361;4
 Berenjena;25;105;4
 Berenjena;25;105;4
-Berzas / Col verde;32;134;4
-Brócoli;34;143;4
-Calabacín / Zucchini / Calabacitas;17;71;4
+Berzas y Col verde;32;134;4
+Brocoli;34;143;4
+Calabacin y Zucchini y Calabacitas;17;71;4
 Calabaza;14;59;4
-Calabaza / Zapallo;26;109;4
+Calabaza y Zapallo;26;109;4
 Cebolla;40;168;4
 Cebolla colorada;40;168;4
-Cebolla verde / Cebolla de verdeo;32;134;4
-Cebolleta / Cebollines;30;126;4
-Chalotes / Cebolla morada;72;302;4
+Cebolla verde y Cebolla de verdeo;32;134;4
+Cebolleta y Cebollines;30;126;4
+Chalotes y Cebolla morada;72;302;4
 Chayote;22;92;4
-Chirivías / Nabo blanco;75;315;4
-Col / Repollo;25;105;4
-Col / Repollo chino;16;67;4
+Chirivias y Nabo blanco;75;315;4
+Col y Repollo;25;105;4
+Col y Repollo chino;16;67;4
 Col rizada;49;206;4
-Col roja / Repollo colorado;31;130;4
+Col roja y Repollo colorado;31;130;4
 Coles de Bruselas;43;181;4
 Coliflor;25;105;4
 Colinabo;27;113;4
@@ -168,80 +168,80 @@ Crema de espinacas;74;311;4
 Elote;98;412;4
 Endibia;17;71;4
 Espinacas;23;97;4
-Espárragos;20;84;4
-Granos / Hojas de mostaza;27;113;4
-Grelos / Hojas de nabo;20;84;4
-Guisantes / Arvejas / Chícharos;81;340;4
-Hinojo / Eneldo;31;130;4
-Judías verdes / Chauchas / Ejotes;31;130;4
+Esparragos;20;84;4
+Granos y Hojas de mostaza;27;113;4
+Grelos y Hojas de nabo;20;84;4
+Guisantes y Arvejas y Chicharos;81;340;4
+Hinojo y Eneldo;31;130;4
+Judias verdes y Chauchas y Ejotes;31;130;4
 Lechuga;15;63;4
-Maíz;365;1533;4
+Maiz;365;1533;4
 Nabo sueco;38;160;4
 Nabos;28;118;4
 Nopal;16;67;4
-Nori / Alga nori;35;147;4
-Ocra / Quimbombó;33;139;4
-Olivas / Aceitunas;115;483;4
-Olivas / Aceitunas negras;115;483;4
-Olivas verdes / Aceitunas verdes;115;483;4
-Patata / Papa;77;323;4
+Nori y Alga nori;35;147;4
+Ocra y Quimbombo;33;139;4
+Olivas y Aceitunas;115;483;4
+Olivas y Aceitunas negras;115;483;4
+Olivas verdes y Aceitunas verdes;115;483;4
+Patata y Papa;77;323;4
 Pepinillo;14;59;4
 Pepino;16;67;4
 Pimienta;27;113;4
-Pimiento / Ají;27;113;4
-Pimiento / Morron amarillo;19;80;4
-Pimiento / Morron rojo;35;147;4
-Pimiento / Morron verde;28;118;4
-Pimiento de padrón;18;76;4
+Pimiento y Aji;27;113;4
+Pimiento y Morron amarillo;19;80;4
+Pimiento y Morron rojo;35;147;4
+Pimiento y Morron verde;28;118;4
+Pimiento de padron;18;76;4
 Pimiento de Piquillo;22;92;4
-Pimiento italiano / Pimiento de freír;23;97;4
-Pimiento morrón;23;97;4
-Puerro / Poro;61;256;4
+Pimiento italiano y Pimiento de freir;23;97;4
+Pimiento morron;23;97;4
+Puerro y Poro;61;256;4
 Remolacha/ Betabel;43;181;4
-Rábano picante;48;202;4
-Rábanos;16;67;4
-Rúcula / Arúgula;25;105;4
-Setas / Hongos;22;92;4
-Tomate / Jitomate;18;76;4
+Rabano picante;48;202;4
+Rabanos;16;67;4
+Rucula y Arugula;25;105;4
+Setas y Hongos;22;92;4
+Tomate y Jitomate;18;76;4
 Tomate cherry;100;420;4
 Tomate verde;23;97;4
 Wasabi;109;458;4
 Zanahoria;41;172;4
-Batata / Boniato / Camote;92;386;12
+Batata y Boniato y Camote;92;386;12
 Batatas fritas;274;1151;12
 Croquetas;127;533;12
-Dumpling de patata / papa;124;521;12
-Dumpling de tuétano;424;1781;12
-Ensalada de patata / papa;143;601;12
-Fécula de papa / Almidón de patata / papa;331;1390;12
-Gnocchi / Pasta de papa;133;559;12
-Gratinado de patata / Papas gratinadas;132;554;12
-Kartoffelpuffer / Churros de papa;185;777;12
+Dumpling de patata y papa;124;521;12
+Dumpling de tuetano;424;1781;12
+Ensalada de patata y papa;143;601;12
+Fecula de papa y Almidon de patata y papa;331;1390;12
+Gnocchi y Pasta de papa;133;559;12
+Gratinado de patata y Papas gratinadas;132;554;12
+Kartoffelpuffer y Churros de papa;185;777;12
 Mandiocas fritas;300;1260;12
 Masa de dumpling;124;521;12
-Palitos de patata / papa;522;2192;12
-Patata / Papa;77;323;12
-Patata / Papa asada;93;391;12
-Patatas / Papas al romero;93;391;12
-Patatas / Papas blancas;94;395;12
-Patatas / Papas fritas;312;1310;12
-Patatas / Papas Yukon Gold;82;344;12
-Patatas cocidas / Papas hervidas;87;365;12
-Patatas fritas / Papas fritas / Papas a la francesa;312;1310;12
+Palitos de patata y papa;522;2192;12
+Patata y Papa;77;323;12
+Patata y Papa asada;93;391;12
+Patatas y Papas al romero;93;391;12
+Patatas y Papas blancas;94;395;12
+Patatas y Papas fritas;312;1310;12
+Patatas y Papas Yukon Gold;82;344;12
+Patatas cocidas y Papas hervidas;87;365;12
+Patatas fritas y Papas fritas y Papas a la francesa;312;1310;12
 Patatas gajo (deluxe);123;517;12
-Puré de patatas / papas;89;374;12
+Pure de patatas y papas;89;374;12
 Rosti;138;580;12
-Tortilla francesa / Omelette;154;647;12
+Tortilla francesa y Omelette;154;647;12
 Yuca;160;672;12
 Alas de pollo;324;1361;13
 Aros de cebolla;411;1726;13
-Atún;86;361;13
-BBQ rib / Costilla BBQ;212;890;13
+Atun;86;361;13
+BBQ rib y Costilla BBQ;212;890;13
 Big King de Burger King;273;1147;13
 Big Mac de McDonald's;256;1075;13
 BMT italiano;183;769;13
-Bocadillo / Sandwich de pollo teriyaki;138;580;13
-Bocadillo de albóndigas;141;592;13
+Bocadillo y Sandwich de pollo teriyaki;138;580;13
+Bocadillo de albondigas;141;592;13
 Bratwurst;333;1399;13
 Burger King Double Whopper;239;1004;13
 Burger King Whopper;231;970;13
@@ -285,27 +285,27 @@ McPollo de McDonald's;251;1054;13
 Nachos con queso;306;1285;13
 Nuggets de McDonald's;297;1247;13
 Nuggets de pollo;296;1243;13
-Patatas / Papas fritas;254;1067;13
-Patatas / Papas fritas rizadas;311;1306;13
+Patatas y Papas fritas;254;1067;13
+Patatas y Papas fritas rizadas;311;1306;13
 Pavo;104;437;13
 Pechuga de pollo;163;685;13
-Perrito caliente / Pancho / Hot Dog;269;1130;13
+Perrito caliente y Pancho y Hot Dog;269;1130;13
 Piezas de pollo Bucket de KFC;156;655;13
 Quesadillas de Taco Bell;330;1386;13
 Rib burger de Burger King;375;1575;13
 Rollito de primavera;250;1050;13
-Salmón ahumado;158;664;13
-Sandwich de albóndigas;161;676;13
+Salmon ahumado;158;664;13
+Sandwich de albondigas;161;676;13
 Sandwich de pescado;273;1147;13
 Serranito;310;1302;13
 Soft Taco de Taco Bell;173;727;13
 Sope;208;874;13
 Steakhouse de Burger King;283;1189;13
-Sándwich de atún;158;664;13
-Sándwich de cangrejo;161;676;13
-Sándwich de jamón;241;1012;13
-Sándwich de jamón y queso;241;1012;13
-Sándwich de pollo;241;1012;13
+Sandwich de atun;158;664;13
+Sandwich de cangrejo;161;676;13
+Sandwich de jamon;241;1012;13
+Sandwich de jamon y queso;241;1012;13
+Sandwich de pollo;241;1012;13
 Taco de Taco Bell;217;911;13
 Tacos de bisteck;170;714;13
 Tacos de pastor/ trompo;267;1121;13
@@ -314,7 +314,7 @@ Tarta de jamon y queso;264;1109;13
 Tarta de pescado;207;869;13
 Tarta de verduras;150;630;13
 Tortilla para wraps;271;1138;13
-Tostado / Carlito;294;1235;13
+Tostado y Carlito;294;1235;13
 Veggie Delight;138;580;13
 Veggie Patty;390;1638;13
 Whopper Jr. de Burger King;232;974;13
@@ -323,7 +323,7 @@ Flammkuchen;253;1063;14
 Focaccia de queso;282;1184;14
 Masa de pizza;228;958;14
 Pan de ajo;353;1483;14
-Pizza argentina / con carne;273;1147;14
+Pizza argentina y con carne;273;1147;14
 Pizza barbacoa;275;1155;14
 Pizza blanca;246;1033;14
 Pizza burger;278;1168;14
@@ -332,10 +332,10 @@ Pizza capricciosa;260;1092;14
 Pizza carbonara;257;1079;14
 Pizza cuatro estaciones;285;1197;14
 Pizza cuatro quesos;248;1042;14
-Pizza de atún;254;1067;14
+Pizza de atun;254;1067;14
 Pizza de espinacas;234;983;14
 Pizza de espinacas y feta;242;1016;14
-Pizza de gambas / camarones;209;878;14
+Pizza de gambas y camarones;209;878;14
 Pizza de masa fina;261;1096;14
 Pizza de masa rellena;255;1071;14
 Pizza de masa rellena de Pizza Hut;255;1071;14
@@ -344,14 +344,14 @@ Pizza de pollo;234;983;14
 Pizza de queso;267;1121;14
 Pizza de queso de cabra;219;920;14
 Pizza de salchicha;246;1033;14
-Pizza de setas / hongos;212;890;14
+Pizza de setas y hongos;212;890;14
 Pizza de verduras;256;1075;14
 Pizza hawaiana;115;483;14
 Pizza Hut Supreme Pizza;248;1042;14
 Pizza kebab;395;1659;14
 Pizza margarita;275;1155;14
 Pizza marinera;245;1029;14
-Pizza mediterránea;247;1037;14
+Pizza mediterranea;247;1037;14
 Pizza mexicana;260;1092;14
 Pizza mozzarella;249;1046;14
 Pizza napoli;202;848;14
@@ -359,11 +359,11 @@ Pizza pepperoni;255;1071;14
 Pizza salami;255;1071;14
 Pizza siciliana;241;1012;14
 Pizza vegetariana;256;1075;14
-Quiche de jamón y queso;182;764;14
+Quiche de jamon y queso;182;764;14
 Quiche vegetal;176;739;14
 Rollo de pizza;247;1037;14
-Rosca de jamón y queso;289;1214;14
-Rosca de lomo, bacon / panceta y queso;298;1252;14
+Rosca de jamon y queso;289;1214;14
+Rosca de lomo, bacon y panceta y queso;298;1252;14
 Babybel;333;1399;15
 Burratta;281;1180;15
 Fondue de queso;228;958;15
@@ -396,11 +396,11 @@ Queso de oveja;364;1529;15
 Queso edam;357;1499;15
 Queso emmental;357;1499;15
 Queso Feta;264;1109;15
-Queso fresco / blanco;98;412;15
+Queso fresco y blanco;98;412;15
 Queso Gorgonzola;350;1470;15
 Queso gouda;356;1495;15
 Queso gruyer;413;1735;15
-Queso holandés;393;1651;15
+Queso holandes;393;1651;15
 Queso italiano;397;1667;15
 Queso maasdam;344;1445;15
 Queso manchego;320;1344;15
@@ -414,16 +414,16 @@ Queso parmesano;431;1810;15
 Queso roquefort;369;1550;15
 Queso suizo;380;1596;15
 Raclette;357;1499;15
-Requesón;174;731;15
+Requeson;174;731;15
 Stilton;393;1651;15
 Arroz con leche;118;496;2
 Chocolate caliente;89;374;2
-Crema chantillí;266;1117;2
-Crema para café;195;819;2
+Crema chantilli;266;1117;2
+Crema para cafe;195;819;2
 Crème fraîche;393;1651;2
 Cuajada;98;412;2
 Horchata;85;357;2
-Kéfir;55;231;2
+Kefir;55;231;2
 Lassi;75;315;2
 Leche;61;256;2
 Leche condensada;321;1348;2
@@ -431,21 +431,21 @@ Leche de almendra;17;71;2
 Leche de arroz;49;206;2
 Leche de cabra;69;290;2
 Leche de coco;230;966;2
-Leche de soja / soya;45;189;2
-Leche desnatada / descremada;35;147;2
+Leche de soja y soya;45;189;2
+Leche desnatada y descremada;35;147;2
 Leche en polvo;496;2083;2
 Leche entera;61;256;2
 Leche evaporada;321;1348;2
 Leche merengada;81;340;2
 Leche preparada;110;462;2
-Leche semidesnatada / parcialmente descremada;50;210;2
+Leche semidesnatada y parcialmente descremada;50;210;2
 Leche sin lactosa;52;218;2
 Mousse de chocolate;225;945;2
-Nata / Crema;242;1016;2
-Nata / Crema agria;181;760;2
-Nata montada / Crema batida;257;1079;2
-Pudin de sémola;67;281;2
-Requesón / Cottage / Ricota;98;412;2
+Nata y Crema;242;1016;2
+Nata y Crema agria;181;760;2
+Nata montada y Crema batida;257;1079;2
+Pudin de semola;67;281;2
+Requeson y Cottage y Ricota;98;412;2
 Suero de mantequilla;62;260;2
 Tzatziki;117;491;2
 Yogur;61;256;2
@@ -458,10 +458,10 @@ Queso a la pimienta;100;420;15;15
 Queso ahumado;410;1722;15;15
 Queso alpino;418;1756;15;15
 Queso Cheddar;403;1693;15;15
-Queso de sándwich;148;622;15;15
+Queso de sandwich;148;622;15;15
 Queso edam;357;1499;15;15
 Queso emmental;357;1499;15;15
-Queso en lonchas / fetas;356;1495;15;15
+Queso en lonchas y fetas;356;1495;15;15
 Queso gouda;356;1495;15;15
 Queso leerdammer;284;1193;15;15
 Queso maasdam;344;1445;15;15
@@ -473,22 +473,22 @@ Queso muenster;368;1546;15;15
 Queso Tilsit;340;1428;15;15
 Tabla de quesos;357;1499;15;15
 Activia;74;311;16
-Activia fresa / frutilla;97;407;16
-Activia limón;100;420;16
+Activia fresa y frutilla;97;407;16
+Activia limon;100;420;16
 Ayran;42;176;16
 Yogur;61;256;16
 Yogur bajo en grasa;63;265;16
 Yogur con cereales;48;202;16
 Yogur con muesli;109;458;16
 Yogur cremoso;90;378;16
-Yogur de arándanos;105;441;16
+Yogur de arandanos;105;441;16
 Yogur de cereza;97;407;16
 Yogur de chocolate;128;538;16
 Yogur de coco;81;340;16
-Yogur de fresa / frutilla;100;420;16
+Yogur de fresa y frutilla;100;420;16
 Yogur de fruta;97;407;16
 Yogur de macedonia;84;353;16
-Yogur de melocotón / durazno;97;407;16
+Yogur de melocoton y durazno;97;407;16
 Yogur de moca;100;420;16
 Yogur de stracciatella;139;584;16
 Yogur de vainilla;101;424;16
@@ -496,9 +496,9 @@ Yogur desnatado;56;235;16
 Yogur griego;53;223;16
 Yogur griego sin azucarar;78;328;16
 Yogur light;54;227;16
-Yogur orgánico;75;315;16
-Yogur probiótico;80;336;16
-Cottage / Requesón;98;412;15;16
+Yogur organico;75;315;16
+Yogur probiotico;80;336;16
+Cottage y Requeson;98;412;15;16
 Mascarpone;450;1890;15;16
 Obatzda;303;1273;15;16
 Queso crema;342;1436;15;16
@@ -509,9 +509,9 @@ Queso crema con nueces;342;1436;15;16
 Queso crema con olivas;342;1436;15;16
 Queso crema con pesto;342;1436;15;16
 Queso crema con piña;342;1436;15;16
-Queso crema con salmón;342;1436;15;16
+Queso crema con salmon;342;1436;15;16
 Queso crema feta;342;1436;15;16
 Queso crema philadelphia;342;1436;15;16
 Queso crema vegetal;342;1436;15;16
 Queso de cabra;364;1529;15;16
-Rábano picante;48;202;15;16
+Rabano picante;48;202;15;16

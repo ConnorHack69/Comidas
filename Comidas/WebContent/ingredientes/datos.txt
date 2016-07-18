@@ -1,143 +1,55 @@
-1;Aceite de soja;0;0;Aceites y materias grasas;0
-2;Aceite de maíz;0;0;Aceites y materias grasas;0
-3;Aceite de oliva;0;0;Aceites y materias grasas;0
-4;Nata o crema de leche;0;0;Productos lácteos;0
-5;Yogur;0;0;Productos lácteos;0
-6;Leche;0;0;Productos lácteos;0
-7;Helado;0;0;Productos lácteos;0
-8;Queso;0;0;Productos lácteos;0
-9;Setas;0;0;Setas y verduras;0
-10;Hongos;0;0;Setas y verduras;0
-11;Coles;0;0;Setas y verduras;0
-12;Legumbres;0;0;Setas y verduras;0
-13;Alubias;0;0;Setas y verduras;0
-14;Garbanzos;0;0;Setas y verduras;0
-15;Lentejas;0;0;Setas y verduras;0
-16;Soja;0;0;Setas y verduras;0
-17;Pimientas;0;0;Setas y verduras;0
-18;Patata;0;0;Setas y verduras;0
-19;Raíces y tubérculos;0;0;Setas y verduras;0
-20;Lechugas;0;0;Setas y verduras;0
-21;Acelga;0;0;Setas y verduras;0
-22;Alcachofa;0;0;Setas y verduras;0
-23;Batata;0;0;Setas y verduras;0
-24;Berenjena;0;0;Setas y verduras;0
-25;Berro;0;0;Setas y verduras;0
-26;Brócoli;0;0;Setas y verduras;0
-27;Brecol;0;0;Setas y verduras;0
-28;Calabacín;0;0;Setas y verduras;0
-29;Calabaza;0;0;Setas y verduras;0
-30;Cardo;0;0;Setas y verduras;0
-31;Aguacate;0;0;Frutas;0
-32;Albaricoque;0;0;Frutas;0
-33;Almeja;0;0;Marisco;0
-34;Ancas de rana;0;0;Carne;Otros
-35;Anchoa;0;0;Pescado;0
-36;Arroz;0;0;Cereales, harinas y masas;0
-37;Atún;0;0;Pescado;0
-38;Avestruz;0;0;Carne;Aves de Corral
-39;Bacalao;0;0;Pescado;0
-40;Bison;0;0;Carne;Mamíferos
-41;Bonito;0;0;Pescado;0
-42;Boquerón;0;0;Pescado;0
-43;Buey;0;0;Carne;Animal
-44;Caballa;0;0;Pescado;0
-45;Caballo;0;0;Carne;Animal
-46;Cabra;0;0;Carne;Animal
-47;Calamar;0;0;Marisco;0
-48;Camarón;0;0;Marisco;0
-49;capones;0;0;Carne;Aves de Corral
-50;Caracoles;0;0;Carne;Otros
-51;Cebolla;0;0;Setas y verduras;0
-52;Cebolleta;0;0;Setas y verduras;0
-53;Cerdo;0;0;Carne;Animal
-54;Cereales;0;0;Cereales, harinas y masas;0
-55;Cereza;0;0;Frutas;0
-56;Chicharro;0;0;Pescado;0
-57;Ciervo;0;0;Carne;Mamíferos
-58;Cigala;0;0;Marisco;0
-59;Ciruela;0;0;Frutas;0
-60;Coles de Bruselas;0;0;Setas y verduras;0
-61;Coliflor;0;0;Setas y verduras;0
-62;Conejo;0;0;Carne;Mamíferos
-63;Cordero;0;0;Carne;Animal
-64;Corvina;0;0;Pescado;0
-65;Dorada;0;0;Pescado;0
-66;Endivia;0;0;Setas y verduras;0
-67;Escarola;0;0;Setas y verduras;0
-68;Espárrago;0;0;Setas y verduras;0
-69;Espinaca;0;0;Setas y verduras;0
-70;Faisanes;0;0;Carne;Aves de Caza
-71;Frambuesa;0;0;Frutas;0
-72;Fresa;0;0;Frutas;0
-73;Fruta del bosque;0;0;Frutas;0
-74;Fruta seca;0;0;Frutas;0
-75;Frutos secos;0;0;Frutas;0
-76;Gallinas;0;0;Carne;Aves de Corral
-77;Gamba;0;0;Marisco;0
-78;Granada;0;0;Frutas;0
-79;Guisante;0;0;Setas y verduras;0
-80;Habas;0;0;Setas y verduras;0
-81;Harinas;0;0;Cereales, harinas y masas;0
-82;Higos;0;0;Frutas;0
-83;Hinojo;0;0;Setas y verduras;0
-84;huevos : Clara, yema.;0;0;Carne;Aves de Corral
-85;Jabalí;0;0;Carne;Mamíferos
-86;Judías;0;0;Setas y verduras;0
-87;Kiwi;0;0;Frutas;0
-88;Langostino;0;0;Marisco;0
-89;Lenguado;0;0;Pescado;0
-90;Liebre;0;0;Carne;Mamíferos
-91;Limón;0;0;Frutas;0
-92;Lubina;0;0;Pescado;0
-93;Maíz;0;0;Setas y verduras;0
-94;Mandarina;0;0;Frutas;0
-95;Mango;0;0;Frutas;0
-96;Manzanas;0;0;Frutas;0
-97;Mejillón;0;0;Marisco;0
-98;Melocotones;0;0;Frutas;0
-99;Melón;0;0;Frutas;0
-100;Membrillo;0;0;Frutas;0
-101;Merluza;0;0;Pescado;0
-102;Mero;0;0;Pescado;0
-103;Naranja;0;0;Frutas;0
-104;Nectarina;0;0;Frutas;0
-105;Ocas;0;0;Carne;Aves de Corral
-106;Ocas salvajes.;0;0;Carne;Aves de Caza
-107;Oso;0;0;Carne;Mamíferos
-108;Ostra;0;0;Marisco;0
-109;Ovejas;0;0;Carne;Animal
-110;Palmito;0;0;Setas y verduras;0
-111;Paloma;0;0;Carne;Aves de Corral
-112;Palometa;0;0;Pescado;0
-113;Panes;0;0;Cereales, harinas y masas;0
-114;Pasta;0;0;Cereales, harinas y masas;0
-115;Patos;0;0;Carne;Aves de Corral
-116;Patos;0;0;Carne;Aves de Caza
-117;Pavos;0;0;Carne;Aves de Corral
-118;Pejerrey;0;0;Pescado;0
-119;Pepino;0;0;Setas y verduras;0
-120;Peras;0;0;Frutas;0
-121;Percebe;0;0;Marisco;0
-122;Perdiz;0;0;Carne;Aves de Corral
-123;Pimiento;0;0;Setas y verduras;0
-124;Piña;0;0;Frutas;0
-125;Plátano;0;0;Frutas;0
-126;Pollo;0;0;Carne;Aves de Corral
-127;Pomelo;0;0;Frutas;0
-128;Puerro;0;0;Setas y verduras;0
-129;Pulpo;0;0;Marisco;0
-130;Rape;0;0;Pescado;0
-131;Remolacha;0;0;Setas y verduras;0
-132;Rodaballo;0;0;Pescado;0
-133;Salmón;0;0;Pescado;0
-134;Sandía;0;0;Frutas;0
-135;Sardina;0;0;Pescado;0
-136;Sepia;0;0;Marisco;0
-137;Ternera;0;0;Carne;Animal
-138;Tomate;0;0;Setas y verduras;0
-139;Trucha;0;0;Pescado;0
-140;Uvas;0;0;Frutas;0
-141;Vaca;0;0;Carne;Animal
-142;Vieira;0;0;Marisco;0
-143;Zanahoria;0;0;Setas y verduras;0
+Aceitunas / Olivas;115;483
+Aguacate;160;672
+Albaricoque / Chabacano;48;202
+Arandanos;57;239
+Arandanos;46;193
+Asai;70;294
+Caqui / Persimon;127;533
+Carambola / Fruta estrella;31;130
+Cerezas;50;210
+Ciruela;46;193
+Ciruela verde;41;172
+Clementina;47;197
+Compota / Pure de manzana;68;286
+Datiles;282;1184
+Frambuesa;52;218
+Fresas / Frutillas;32;134
+Granada;83;349
+Grosella;56;235
+Guayaba;68;286
+Higo chumbo / Tuna;37;155
+Higos;74;311
+Kiwi;61;256
+Lichi;66;277
+Lima;30;126
+Limon;29;122
+Macedonia / Ensalada de frutas;50;210
+Mandarinas;53;223
+Mango;60;252
+Manzana;52;218
+Maracuya;97;407
+Melocoton / Durazno;39;164
+Melon;36;151
+Melon amarillo;55;231
+Melon cantalup;34;143
+Melon de galia;26;109
+Membrillo;57;239
+Moras;43;181
+Moras;43;181
+Naranja;47;197
+Naranja roja / sanguina;50;210
+Nectarina;44;185
+Papaya / Mamon;43;181
+Pasas / Pasas de uva;299;1256
+Pera;57;239
+Physalis;49;206
+Piña / Anana;50;210
+Platano / Banana;89;374
+Platano macho;122;512
+Pomelo / Toronja;42;176
+Rambutan;82;344
+Ruibarbo;21;88
+Sandia;30;126
+Tamarindo;239;1004
+Uvas;69;290
+Yaca;95;399
